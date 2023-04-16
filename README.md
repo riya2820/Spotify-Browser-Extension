@@ -1,18 +1,18 @@
-#Spotify Browser 
+# Spotify Browser 
 
 This project is an Angular web application that allows users to explore the music available on Spotify, a popular music streaming app. The application communicates with a backend server written in Node.js/Express, which handles authentication via OAuth and communicates with the Spotify API.
 
 The goal of this project is to gather data from an API and develop a frontend interface that displays the data. Angular is used to create a webpage and make HTTP requests to the backend server to trigger API calls.
 
 
-#Installation
+# Installation
 
 Clone this repository
 Navigate to the project directory: cd spotify-music-explorer.
 Install the dependencies: npm install.
 
 
-#Usage
+# Usage
 
 
 Start the backend server: npm run server.
